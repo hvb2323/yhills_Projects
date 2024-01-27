@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: url('image2.jpg'); /* Replace with your image file path */
+    background-size: 100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    overflow: scroll;
+    font-family: 'Arial', sans-serif; /* Change the font family as needed */
+    color: #ffffff; /* Change the text color as needed */
+}
+.hvb{
+    color:white;
+    font-size: large;
+    background-color: rgba(10, 0, 0, 0.3); /* Use rgba for transparency */
+    padding: 12px;
+}
+.hvb1 {
+    color: white;
+    font-size: x-large; /* or any other value you prefer */
+    background-color: rgba(10, 0, 0, 0.3);
+    padding: 12px;
+    text-align: center; /* Center-align the text */
+}
+/* Add additional styling for your content */
+.btn-primary1 {
+    text-align: right;
+    background-color: #ffea00; /* Choose your desired background color */
+    color: #000000; /* Choose the text color */
+    padding: 10px 20px; /* Adjust the padding as needed */
+    text-decoration: none; /* Remove underline from the link */
+    font-weight: bold; /* Make the text bold */
+    border-radius: 5px; /* Add rounded corners */
+    display: inline-block; /* Ensure block-like styling */
+}
+.btn-container2 {
+    text-align: center;
+    display: inline-block;
+    margin-right: 10px;
+}
+.btn-container1 {
+    text-align: center;
+    display: inline-block;
+    margin-right: 10px;}
